@@ -1,0 +1,7 @@
+c:\users\rayab\source\repos\CapstoneWeek1PigLatin\CapstoneWeek1PigLatin\bin\Debug\CapstoneWeek1PigLatin.exe.config
+c:\users\rayab\source\repos\CapstoneWeek1PigLatin\CapstoneWeek1PigLatin\bin\Debug\CapstoneWeek1PigLatin.exe
+c:\users\rayab\source\repos\CapstoneWeek1PigLatin\CapstoneWeek1PigLatin\bin\Debug\CapstoneWeek1PigLatin.pdb
+c:\users\rayab\source\repos\CapstoneWeek1PigLatin\CapstoneWeek1PigLatin\obj\Debug\CapstoneWeek1PigLatin.csprojResolveAssemblyReference.cache
+c:\users\rayab\source\repos\CapstoneWeek1PigLatin\CapstoneWeek1PigLatin\obj\Debug\CapstoneWeek1PigLatin.csproj.CoreCompileInputs.cache
+c:\users\rayab\source\repos\CapstoneWeek1PigLatin\CapstoneWeek1PigLatin\obj\Debug\CapstoneWeek1PigLatin.exe
+c:\users\rayab\source\repos\CapstoneWeek1PigLatin\CapstoneWeek1PigLatin\obj\Debug\CapstoneWeek1PigLatin.pdb
